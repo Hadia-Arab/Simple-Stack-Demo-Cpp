@@ -1,0 +1,38 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+stack_demo
+a.out
+
+# Object & intermediate files
+*.o
+*.obj
+*.ilk
+*.pdb
+*.idb
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.code-workspace
+*.sln
+*.vcxproj*
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp
+*.log
+*.tmp
